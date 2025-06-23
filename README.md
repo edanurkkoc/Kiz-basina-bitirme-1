@@ -39,10 +39,14 @@ Bazı sütunlarda özellikle uçuş mesafesi ve gecikme sürelerinde aykırı de
 ### 📈 4. Görselleştirme
 Veriyi daha anlaşılır hale getirmek için seaborn kütüphanesiyle çeşitli grafikler oluşturdum:
 - Yolcu memnuniyet durumu dağılımı
-  ![indir](https://github.com/user-attachments/assets/de70aef8-9684-43e3-b218-55beddb49efd)
+![indir (1)](https://github.com/user-attachments/assets/df28b441-23e1-4a3c-9bb1-7445a4494604)
+
 
 - Seyahat türüne göre memnuniyet
+- ![indir (2)](https://github.com/user-attachments/assets/0ead216e-d530-453d-8691-71f4e808f825)
+
 - Boxplot'larla yaş, uçuş mesafesi ve gecikme sürelerinin aykırı değer analizi
+-   ![indir](https://github.com/user-attachments/assets/de70aef8-9684-43e3-b218-55beddb49efd)
 
 ## 📌 Genel Değerlendirme
 
